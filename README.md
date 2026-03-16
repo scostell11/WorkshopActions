@@ -15,6 +15,7 @@ Repo for the `GitHub Actions Fundamentals` training.
 - Workflow templates and __reusable workflows__
 - Modify and commit: triggers build (push)
 - Modify and add [skip ci] (not triggering the workflow):
+- create a pull request
 
 ## Getting ready
 
