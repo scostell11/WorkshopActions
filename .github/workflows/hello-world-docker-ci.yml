@@ -2,7 +2,7 @@ name: CI Build for Docker Action
 on:
   push:
     branches: [ main ]
-    paths: [ hello-world-docker-action/** ]
+    paths: [ .github/workflows/hello-world-docker-action/** ]
   workflow_dispatch:
 
 jobs:
